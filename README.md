@@ -6,7 +6,7 @@
 
 #### Install for frontend and backend:
 
-#### yarn instal
+#### yarn install
 
 ### **Run Server**
 
