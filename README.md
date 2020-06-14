@@ -8,10 +8,10 @@
 
 #### yarn install
 
-### **Run Server**
+### **Run Backend**
 
 #### yarn dev
 
-### **Run Front**
+### **Run Frontend**
 
 #### yarn serve
