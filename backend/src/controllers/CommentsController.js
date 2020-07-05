@@ -31,10 +31,8 @@ module.exports = {
 
     const stream = fs.createReadStream(filePath);
 
-    stream.on("end", () => console.log("acabou"));
+    stream.on("end", () => console.log("done"));
     stream.pipe(res);
-
-    return res.json(comments);
   },
 
   async index(req, res) {
