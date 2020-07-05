@@ -1,17 +1,17 @@
 # Teste Smarkio
 
-## **Project Develop with Postgres, Express, Node.js and Vue.js**
+## **Project Develop with Postgres, Express, Sequelize, Node.js and Vue.js**
 
 ### **First**
 
 #### Install for frontend and backend:
 
-#### yarn instal
+#### yarn install
 
-### **Run Server**
+### **Run Backend**
 
 #### yarn dev
 
-### **Run Front**
+### **Run Frontend**
 
 #### yarn serve
